@@ -1,6 +1,5 @@
 # Echo® — Acoustic Instruments, Berlin / Tokyo
 
-> 🌐 **Live Demo:** [https://echo-instruments.vercel.app](https://echo-instruments.vercel.app)
 Precision industrial hardware and acoustic instruments showcase, featuring real-time Chladni cymatics resonance scope, Web Audio API harmonic synthesizer, and exploded CNC engineering stack.
 
 ## Quick Start
